@@ -3,6 +3,7 @@
 El proyecto se centrará en un análisis detallado y estructurado de las exportaciones e importaciones de Venezuela durante los últimas dos decadas. Su propósito principal es lograr una comprensión clara de las tendencias y patrones en el comercio, lo que facilitará una mejor toma de decisiones en la administración aduanera.
 
 ![ Presentacion de los datos ](https://github.com/TheAtticTrash/FAVFIX-proyecto/blob/master/proyecto.jpg)
+![ interfaz del proyecto ](https://fafvix.streamlit.app)
 
 > Proyecto.
 
