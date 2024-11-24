@@ -9,8 +9,6 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
 
 ## Tabla de contenidos
 
-[TOCM]
-
 1. [Nombre](#análisis-de-la-importación-y-exportación-de-venezuela-en-los-últimos-20-años)
 2. [Descripción](#descripción)
 3. [Arquitectura](#arquitectura-del-proyecto)
@@ -21,7 +19,7 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
 
 
 #### Arquitectura del proyecto.
-
+``` el proyecto esta dividido en unas estructura sencilla, donde hay tres datasets principales, el archivo analisis.ipynb es el notebook de trabajo donde estudiamos el caso planteado en nuestro proyecto y el archivo interfaz.py es el encargado de dar vida y visualizacion a los datos en una interfaz web```
 
 ##### Proceso de desarrollo.
 
@@ -58,10 +56,17 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
   - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   - ![Plotly](https://img.shields.io/badge/Plotly-3B4B8C?style=flat-square&logo=plotly&logoColor=white)
   
-- Arquitectura (img)
+- Arquitectura de la interfaz
+  ![](https://github.com/TheAtticTrash/FAVFIX-proyecto/blob/master/interfaz.jpg)
 
 ##### Estado Del Proyecto.
 
 * Finalizado.
 
 ##### Agradecimientos
+
+Queremos expresar nuestro más sincero agradecimiento a Samsung por la valiosa oportunidad de participar en el curso "Samsung Campus para Inteligencia Artificial". 
+Este programa ha sido fundamental para nuestro equipo, FAVFIX, ya que nos ha proporcionado un conocimiento profundo sobre el funcionamiento de Python, el análisis de datos y el fascinante mundo de la programación.
+Agradecemos especialmente a nuestros profesores, Jenny Remolina y Álvaro Arauz, por su dedicación, guía y asesoramiento a lo largo de este proceso de aprendizaje. Su apoyo ha sido crucial para nuestro desarrollo en el ámbito de la programación y el análisis de datos, y nos ha inspirado a seguir explorando y creciendo en este campo.
+Este proyecto, que presenta un análisis del comercio en Venezuela desde 2002 hasta 2022, es un reflejo de los conocimientos adquiridos y de la pasión que hemos desarrollado por la inteligencia artificial y el análisis de datos.
+Gracias nuevamente a todos los involucrados en este curso por su compromiso y por compartir su experiencia con nosotros.
