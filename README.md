@@ -20,7 +20,8 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
 7. [Agradecimientos](#agradecimientos)
 
 
-##### Arquitectura del proyecto.
+#### Arquitectura del proyecto.
+
 
 ##### Proceso de desarrollo.
 
