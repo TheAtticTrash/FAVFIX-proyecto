@@ -19,9 +19,9 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
 7. [Agradecimientos](#Agradecimientos)
 
 
-#####Arquitectura del proyecto.
+##### Arquitectura del proyecto.
 
-#####Proceso de desarrollo.
+##### Proceso de desarrollo.
 
 + fuente donde se saco el dataset
 
@@ -46,7 +46,7 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
 
 -Estadísticos (Valores, gráficos, …) ``` se utilizaron tres tipos de graficas durante el analisis visual de los datos, siendo las de barra las de mayor utilidad, y una de lineas para ver la caida y subida del valor por año, ademas de una grafica que utiliza una escala de colores para mostrar el grado de inversion en las 5 secciones con mayor inversion en cada año```
 
-#####Funcionalidades extra.
+##### Funcionalidades extra.
 
 * Desarrollo de interfaz gráfica de usuario
 
@@ -58,8 +58,8 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
   
 - Arquitectura (img)
 
-#####Estado Del Proyecto.
+##### Estado Del Proyecto.
 
 * Finalizado.
 
-#####Agradecimientos
+##### Agradecimientos
