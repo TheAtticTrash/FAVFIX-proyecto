@@ -10,13 +10,13 @@ El proyecto se centrará en un análisis detallado y estructurado de las exporta
 
 [TOCM]
 
-1. [Nombre](#Análisis_de_la_importación_y_exportación_de_Venezuela_en_los_últimos_20años.)
-2. [Descripción](#AnálisisdelaimportaciónyexportacióndeVenezuelaenlosúltimos20años.)
-3. [Arquitectura](#Arquitecturadelproyecto)
-4. [Proceso](#Procesodedesarrollo)
-5. [Funcionalidades](#Funcionalidadesextra)
-6. [Estado del proyecto](#EstadoDelProyecto.)
-7. [Agradecimientos](#Agradecimientos)
+1. [Nombre](#análisis-de-la-importación-y-exportación-de-venezuela-en-los-últimos-20-años)
+2. [Descripción](#descripción)
+3. [Arquitectura](#arquitectura-del-proyecto)
+4. [Proceso](#proceso-de-desarrollo)
+5. [Funcionalidades](#funcionalidades-extra)
+6. [Estado del proyecto](#estado-del-proyecto)
+7. [Agradecimientos](#agradecimientos)
 
 
 ##### Arquitectura del proyecto.
